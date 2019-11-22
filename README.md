@@ -10,4 +10,4 @@ If you want a clean install (AKA remove all existing extensions on that machine)
 
 `code --list-extensions | xargs -n 1 code --uninstall-extension`
 
-!(Source)[https://superuser.com/questions/1080682/how-do-i-back-up-my-vs-code-settings-and-list-of-installed-extensions]
+![Source](https://superuser.com/questions/1080682/how-do-i-back-up-my-vs-code-settings-and-list-of-installed-extensions)
